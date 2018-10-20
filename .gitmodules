@@ -1,0 +1,3 @@
+[submodule "note"]
+	path = note
+	url = git@github.com:kubocker/scientist-note.git
