@@ -1,6 +1,9 @@
 # science
 
 ### notes
+
+- [まとめ](https://kubocker.github.io/note)
+
 ##### 物理学
 - 力学
 - 解析力学
