@@ -2,7 +2,7 @@
 
 ### notes
 
-- [まとめ](https://kubocker.github.io/note)
+- [まとめ](https://kubocker.github.io/scientist)
 
 ##### 物理学
 - 力学
